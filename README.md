@@ -4,5 +4,6 @@ The chain of events consists in climatic variables perturbing crop yields in hot
 
 **Expertiment setup**:
  - Multilinear regressions (for causality) between local meteorological variables and crop yields at a grid level;
- - A partial-equilibrium model (GLOBIOM) that links crop yields variability to socio-economical impacts. 
-
+ - A partial-equilibrium model (GLOBIOM) that links crop yields variability to socio-economical impacts; 
+ - Climate change scenarios customly designed according to stakeholders and experts inputs;
+ - Integration between models and scenarios.
